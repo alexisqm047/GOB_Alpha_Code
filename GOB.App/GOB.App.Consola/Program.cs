@@ -7,7 +7,7 @@ namespace GOB.App.Consola
 {
     class Program
     {
-        //probando 
+        //probando versionando
         private static IRepositorioGobernadorAsesores _repoGobernador = new RepositorioGobernadorAsesores(new Persistencia.AppContext());
         private static IRepositorioPersonalAseo _repoPersonalAseo = new RepositorioPersonalAseo(new Persistencia.AppContext());
         private static IRepositorioSecretarioDespacho _repoSecretarioDespacho = new RepositorioSecretarioDespacho(new Persistencia.AppContext());
