@@ -5,6 +5,7 @@ namespace GOB.App.Persistencia
 {
     public class AppContext : DbContext
     {
+        //Cambio desde pc
         //public DbSet<Persona> personas{get;set;}
         public DbSet<Aislamiento> aislamiento{get;set;}
         public DbSet<Gobernacion> gobernacion{get;set;}
