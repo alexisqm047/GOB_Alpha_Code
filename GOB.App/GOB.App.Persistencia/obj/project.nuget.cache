@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4aNFTU/d+9oQTfOXw/ThNgO7iU8CbMTDBw0nVf+SaTEOLjh0q4Hh/pmgV5z1mEpNZBJE1uM/P+gb22CAExdw2A==",
+  "dgSpecHash": "A2WvlCxrtgfUFH4CVc5QkIaXdAHYNIdOPdt/QG5bAmkn9G/7d+xt6wyMRlvCw6O0mTkxDXrlWMhWM2ZpkNgRUA==",
   "success": true,
-  "projectFilePath": "C:\\Gobernacion\\GOB.App\\GOB.App.Persistencia\\GOB.App.Persistencia.csproj",
+  "projectFilePath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Persistencia\\GOB.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

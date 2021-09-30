@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zWZ2Xz0Op4sbGyETh9ilRsUCWLwCkH+o9/Az0pDh2L8raDDrNXFCg1rctsvXT81CVedXWNWa7SrAz28ef+btXQ==",
+  "dgSpecHash": "bC6Dvr6SpLze4SH8ww2SYeRwRUf+aLnEHfmV73iOgiZcrVqJuSaDt4kAmZSO/G9+fku6K2PoIpQJP0sXBGEfug==",
   "success": true,
-  "projectFilePath": "C:\\Gobernacion\\GOB.App\\GOB.App.Consola\\GOB.App.Consola.csproj",
+  "projectFilePath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Consola\\GOB.App.Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

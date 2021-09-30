@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z5eubR64qtgghRBFfyTqEMp2b6qXPLWz6o1LLDVWWG9ei+8FUkgVWGhpd25J5JP8ntl0tOZqf41fTy7dKXTo1g==",
+  "dgSpecHash": "Z5uEMuPqwF9Msq+0OomeXG3lHXMNkJTt3VzneAJbLnKNpIwQTp1n4LxrM3tZpJbqJq9hU01pXL0VhXyIYFsU/w==",
   "success": true,
-  "projectFilePath": "C:\\Gobernacion\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj",
+  "projectFilePath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

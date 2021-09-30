@@ -22,3 +22,15 @@ C:\Gobernacion\GOB.App\GOB.App.Persistencia\obj\Debug\netstandard2.1\GOB.App.Per
 C:\Gobernacion\GOB.App\GOB.App.Persistencia\obj\Debug\netstandard2.1\GOB.App.Persistencia.csproj.CopyComplete
 C:\Gobernacion\GOB.App\GOB.App.Persistencia\obj\Debug\netstandard2.1\GOB.App.Persistencia.dll
 C:\Gobernacion\GOB.App\GOB.App.Persistencia\obj\Debug\netstandard2.1\GOB.App.Persistencia.pdb
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Persistencia\bin\Debug\netstandard2.1\GOB.App.Persistencia.deps.json
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Persistencia\bin\Debug\netstandard2.1\GOB.App.Persistencia.dll
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Persistencia\bin\Debug\netstandard2.1\GOB.App.Persistencia.pdb
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Persistencia\bin\Debug\netstandard2.1\GOB.App.Dominio.dll
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Persistencia\bin\Debug\netstandard2.1\GOB.App.Dominio.pdb
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Persistencia\obj\Debug\netstandard2.1\GOB.App.Persistencia.csprojAssemblyReference.cache
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Persistencia\obj\Debug\netstandard2.1\GOB.App.Persistencia.AssemblyInfoInputs.cache
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Persistencia\obj\Debug\netstandard2.1\GOB.App.Persistencia.AssemblyInfo.cs
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Persistencia\obj\Debug\netstandard2.1\GOB.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Persistencia\obj\Debug\netstandard2.1\GOB.App.Persistencia.csproj.CopyComplete
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Persistencia\obj\Debug\netstandard2.1\GOB.App.Persistencia.dll
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Persistencia\obj\Debug\netstandard2.1\GOB.App.Persistencia.pdb

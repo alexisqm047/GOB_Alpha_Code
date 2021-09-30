@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Gobernacion\\GOB.App\\GOB.App.Consola\\GOB.App.Consola.csproj": {}
+    "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Consola\\GOB.App.Consola.csproj": {}
   },
   "projects": {
-    "C:\\Gobernacion\\GOB.App\\GOB.App.Consola\\GOB.App.Consola.csproj": {
+    "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Consola\\GOB.App.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Gobernacion\\GOB.App\\GOB.App.Consola\\GOB.App.Consola.csproj",
+        "projectUniqueName": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Consola\\GOB.App.Consola.csproj",
         "projectName": "GOB.App.Consola",
-        "projectPath": "C:\\Gobernacion\\GOB.App\\GOB.App.Consola\\GOB.App.Consola.csproj",
+        "projectPath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Consola\\GOB.App.Consola.csproj",
         "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
-        "outputPath": "C:\\Gobernacion\\GOB.App\\GOB.App.Consola\\obj\\",
+        "outputPath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexis\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,11 +25,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Gobernacion\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj": {
-                "projectPath": "C:\\Gobernacion\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj"
+              "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj": {
+                "projectPath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj"
               },
-              "C:\\Gobernacion\\GOB.App\\GOB.App.Persistencia\\GOB.App.Persistencia.csproj": {
-                "projectPath": "C:\\Gobernacion\\GOB.App\\GOB.App.Persistencia\\GOB.App.Persistencia.csproj"
+              "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Persistencia\\GOB.App.Persistencia.csproj": {
+                "projectPath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Persistencia\\GOB.App.Persistencia.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Gobernacion\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj": {
+    "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Gobernacion\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj",
+        "projectUniqueName": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj",
         "projectName": "GOB.App.Dominio",
-        "projectPath": "C:\\Gobernacion\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj",
+        "projectPath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
-        "outputPath": "C:\\Gobernacion\\GOB.App\\GOB.App.Dominio\\obj\\",
+        "outputPath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexis\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Gobernacion\\GOB.App\\GOB.App.Persistencia\\GOB.App.Persistencia.csproj": {
+    "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Persistencia\\GOB.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Gobernacion\\GOB.App\\GOB.App.Persistencia\\GOB.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Persistencia\\GOB.App.Persistencia.csproj",
         "projectName": "GOB.App.Persistencia",
-        "projectPath": "C:\\Gobernacion\\GOB.App\\GOB.App.Persistencia\\GOB.App.Persistencia.csproj",
+        "projectPath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Persistencia\\GOB.App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
-        "outputPath": "C:\\Gobernacion\\GOB.App\\GOB.App.Persistencia\\obj\\",
+        "outputPath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexis\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -143,8 +143,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Gobernacion\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj": {
-                "projectPath": "C:\\Gobernacion\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj"
+              "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj": {
+                "projectPath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj"
               }
             }
           }

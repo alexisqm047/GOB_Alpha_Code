@@ -24,7 +24,7 @@ namespace GOB.App.Consola
             //EncontrarGobernadores();
             //EncontrarProveedor(1);
             //EliminarGobernador(3);
-            //EliminarProveedor(1);
+            //EliminarProveedor(2);
         }
         //CRUD
         //AdicionarGobernadores

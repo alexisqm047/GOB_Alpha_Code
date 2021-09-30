@@ -16,3 +16,12 @@ C:\Gobernacion\GOB.App\GOB.App.Dominio\obj\Debug\netstandard2.0\GOB.App.Dominio.
 C:\Gobernacion\GOB.App\GOB.App.Dominio\obj\Debug\netstandard2.0\GOB.App.Dominio.csproj.CoreCompileInputs.cache
 C:\Gobernacion\GOB.App\GOB.App.Dominio\obj\Debug\netstandard2.0\GOB.App.Dominio.dll
 C:\Gobernacion\GOB.App\GOB.App.Dominio\obj\Debug\netstandard2.0\GOB.App.Dominio.pdb
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Dominio\bin\Debug\netstandard2.0\GOB.App.Dominio.deps.json
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Dominio\bin\Debug\netstandard2.0\GOB.App.Dominio.dll
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Dominio\bin\Debug\netstandard2.0\GOB.App.Dominio.pdb
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Dominio\obj\Debug\netstandard2.0\GOB.App.Dominio.csprojAssemblyReference.cache
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Dominio\obj\Debug\netstandard2.0\GOB.App.Dominio.AssemblyInfoInputs.cache
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Dominio\obj\Debug\netstandard2.0\GOB.App.Dominio.AssemblyInfo.cs
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Dominio\obj\Debug\netstandard2.0\GOB.App.Dominio.csproj.CoreCompileInputs.cache
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Dominio\obj\Debug\netstandard2.0\GOB.App.Dominio.dll
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Dominio\obj\Debug\netstandard2.0\GOB.App.Dominio.pdb
