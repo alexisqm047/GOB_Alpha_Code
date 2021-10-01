@@ -157,12 +157,12 @@ namespace GOB.App.Consola
         {
             var Secretario = new SecretariosDespacho
             {
-                nombre      = "David",
-                apellido    = "Morales",
-                edad        = 55,
-                identificacion = 0026,
-                estadoSalud = EstadoSalud.Saludable,
-                despacho = "A19" // Comentar
+                nombre      = "Camilo",
+                apellido    = "Naranjo",
+                edad        = 40,
+                identificacion = 1053730546,
+                estadoSalud = EstadoSalud.Salud|able,
+                despacho = "A21" // Comentar
             };
             _repoSecretarioDespacho.AddSecretario(Secretario);
         }
