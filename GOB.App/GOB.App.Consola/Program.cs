@@ -14,7 +14,7 @@ namespace GOB.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            //AdicionarProveedor();
+            AdicionarProveedor();
             //AdicionarGobernador();
             //AdicionarPersonalAseo();
             //AdicionarSecretarioDespacho();
@@ -157,11 +157,11 @@ namespace GOB.App.Consola
         {
             var Secretario = new SecretariosDespacho
             {
-                nombre      = "Camilo",
+                nombre      = "Andres",
                 apellido    = "Naranjo",
                 edad        = 40,
                 identificacion = 1053730546,
-                estadoSalud = EstadoSalud.Salud|able,
+                estadoSalud = EstadoSalud.Saludable,
                 despacho = "A21" // Comentar
             };
             _repoSecretarioDespacho.AddSecretario(Secretario);
@@ -207,12 +207,12 @@ namespace GOB.App.Consola
         {
             var proveedor = new Proveedor
             {
-                nombre      = "Camilo",
-                apellido    = "Marin",
+                nombre      = "Camila",
+                apellido    = "Pelaez",
                 edad        = 30,
-                identificacion = 105387645,
-                servicio = "Plomeria",
-                lugarServicio = "Baño gobernador"
+                identificacion = 1053487600,
+                servicio = "Electrico",
+                lugarServicio = "Oficina central"
                 
             };
             _repoProveedor.AddProveedor(proveedor);
