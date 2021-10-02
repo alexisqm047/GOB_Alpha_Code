@@ -7,7 +7,6 @@ C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\GOB.App.Front
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\GOB.App.Frontend.RazorAssemblyInfo.cs
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
-C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\bin\Debug\netcoreapp3.1\GOB.App.Frontend.exe
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\bin\Debug\netcoreapp3.1\GOB.App.Frontend.deps.json
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\bin\Debug\netcoreapp3.1\GOB.App.Frontend.runtimeconfig.json
