@@ -80,3 +80,5 @@ C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\staticwebasse
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\GOB.App.Frontend.dll
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\GOB.App.Frontend.pdb
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\GOB.App.Frontend.genruntimeconfig.cache
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\Detalles.cshtml.g.cs
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\Gobernadores.cshtml.g.cs

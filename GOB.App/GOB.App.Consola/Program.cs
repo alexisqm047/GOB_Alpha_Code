@@ -15,6 +15,7 @@ namespace GOB.App.Consola
         {
             Console.WriteLine("Hello World!");
             AdicionarProveedor();
+            EncontrarSecretarioDespacho(1);
             //AdicionarGobernador();
             //AdicionarPersonalAseo();
             //AdicionarSecretarioDespacho();

@@ -1,0 +1,38 @@
+﻿@page
+@model GOB.AppFrontend.Pages.GobernadoresModel
+@{
+}
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+<style>
+table, tr, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+</style>
+<h1>Lista Gobernadores</h1>
+<table style="width:100%"> 
+    <th>Nombre</th>
+    <th>Apellido</th>
+    <th>Edad</th>
+    <th>Identificacion</th>
+    <th>Estado de salud</th>
+    @foreach (var gobernadores in Model.Gobernadores)
+    {   
+        
+        <tr>
+            <td>@gobernadores.nombre</td>
+            <td>@gobernadores.apellido</td>
+            <td>@gobernadores.edad</td>
+            <td>@gobernadores.identificacion</td>
+            <td>@gobernadores.estadoSalud</td>            
+        </tr>
+        
+    }
+</table>

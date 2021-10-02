@@ -1,0 +1,37 @@
+﻿@page
+@model GOB.AppFrontend.Pages.DetallesModel
+@{
+}
+
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+<style>
+table, tr, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+</style>
+<h1>Detalles Secretario de despacho</h1>
+<table style="width:100%"> 
+    <th>Nombre</th>
+    <th>Apellido</th>
+    <th>Edad</th>
+    <th>Identificacion</th>
+    <th>Despacho</th>
+    <th>Estado de salud</th>
+    <tr>
+        <td>@Model.secretario.nombre</td>
+        <td>@Model.secretario.apellido</td>
+        <td>@Model.secretario.edad</td>
+        <td>@Model.secretario.identificacion</td>
+        <td>@Model.secretario.despacho</td>
+        <td>@Model.secretario.estadoSalud</td>
+    </tr>   
+</table>
+<input type="button" onclick="history.back()" name="volver atrás" value="volver atrás">
