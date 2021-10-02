@@ -11,6 +11,7 @@ namespace GOB.AppFrontend.Pages
 {
     public class SecretariosModel : PageModel
     {
+        //prueba
         private static IRepositorioSecretarioDespacho _repoSecretarioDespacho = new RepositorioSecretarioDespacho(new GOB.App.Persistencia.AppContext());
         public IEnumerable<SecretariosDespacho> Secretarios{get;set;}
 
