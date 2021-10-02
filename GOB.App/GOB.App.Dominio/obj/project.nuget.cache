@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Z5uEMuPqwF9Msq+0OomeXG3lHXMNkJTt3VzneAJbLnKNpIwQTp1n4LxrM3tZpJbqJq9hU01pXL0VhXyIYFsU/w==",
+  "dgSpecHash": "N2qEkc/s/2SqmfAJ8OHrAWTx3qpLC2+UOf9AES1T2bPovG6xaKi26RYOTZ03C5FLKptKlcAy0HVt0pmUSxhknA==",
   "success": true,
   "projectFilePath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Alexis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
