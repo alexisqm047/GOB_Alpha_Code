@@ -14,7 +14,6 @@ namespace GOB.AppFrontend.Pages
         private static IRepositorioSecretarioDespacho _repoSecretarioDespacho = new RepositorioSecretarioDespacho(new GOB.App.Persistencia.AppContext());
         public IEnumerable<SecretariosDespacho> Secretarios{get;set;}
 
-        //prueba
         public void OnGet()
         {
             Secretarios = _repoSecretarioDespacho.GetAllSecretarios();
