@@ -1,0 +1,40 @@
+﻿@page
+@model GOB.AppFrontend.Pages.ProveedoresModel
+@{
+}
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+<style>
+table, tr, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+</style>
+<h1>Lista Proveedores</h1>
+<table style="width:100%"> 
+    <th>Nombre</th>
+    <th>Apellido</th>
+    <th>Edad</th>
+    <th>Identificacion</th>
+    <th>Servicio</th>
+    <th>Lugar Servicio</th>
+    @foreach (var proveedor in Model.Proveedores)
+    {   
+        
+        <tr>
+            <td>@proveedor.nombre</td>
+            <td>@proveedor.apellido</td>
+            <td>@proveedor.edad</td>
+            <td>@proveedor.identificacion</td>
+            <td>@proveedor.servicio</td>
+            <td>@proveedor.lugarServicio</td>
+        </tr>
+        
+    }
+</table>
