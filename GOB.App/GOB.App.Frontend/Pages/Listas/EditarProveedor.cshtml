@@ -1,0 +1,33 @@
+﻿@page
+@model GOB.AppFrontend.Pages.EditarProveedorModel
+@{
+}
+<form method="post">
+    <input type="hidden" asp-for="proveedor.id">
+    <div class="form_group">
+        <label asp-for="proveedor.nombre"></label>
+        <input asp-for="proveedor.nombre" class="form-control">
+    </div>
+    <div class="form_group">
+        <label asp-for="proveedor.apellido"></label>
+        <input asp-for="proveedor.apellido" class="form-control">
+    </div>
+    <div class="form_group">
+        <label asp-for="proveedor.edad"></label>
+        <input asp-for="proveedor.edad" class="form-control">
+    </div>
+    <div class="form_group">
+        <label asp-for="proveedor.identificacion"></label>
+        <input asp-for="proveedor.identificacion" class="form-control">
+    </div>
+    <div class="form_group">
+        <label asp-for="proveedor.servicio"></label>
+        <input asp-for="proveedor.servicio" class="form-control">
+    </div>
+    <div class="form_group">
+        <label asp-for="proveedor.lugarServicio"></label>
+        <input asp-for="proveedor.lugarServicio" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+    <input type="button" class="btn btn-primary" onclick="history.back()" name="Cancelar" value="Cancelar">
+</form>

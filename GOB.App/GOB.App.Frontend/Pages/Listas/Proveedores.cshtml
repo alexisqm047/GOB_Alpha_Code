@@ -34,7 +34,22 @@ th, td {
             <td>@proveedor.identificacion</td>
             <td>@proveedor.servicio</td>
             <td>@proveedor.lugarServicio</td>
+
+            <td>
+              <a class="btn btn-primary table-btn" asp-page="/Listas/DetallesProveedor" asp-route-proveedorId="@proveedor.id">
+                <i class="fas fa-info-circle" aria-hidden="true"></i></a>
+            </td>
+            <td>
+              <a class="btn btn-secondary table-btn" asp-page="/Listas/EditarProveedor" asp-route-proveedorId="@proveedor.id">
+                <i class="fas fa-address-book"></i></a>
+
+            </td>
+            <td>
+              <a class="btn btn-danger table-btn" asp-page="/Listas/EliminarProveedor" asp-route-proveedorId="@proveedor.id">
+                <i class="fas fa-book-dead"></i></a>
+            </td>        
         </tr>
         
     }
 </table>
+<a asp-page="/Listas/EditarProveedor" class="btn btn-primary table-btn">Adicionar Proveedor</a>
