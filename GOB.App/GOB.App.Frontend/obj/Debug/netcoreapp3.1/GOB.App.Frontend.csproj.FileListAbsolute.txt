@@ -86,3 +86,4 @@ C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\L
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\Proveedores.cshtml.g.cs
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\EliminarSecretario.cshtml.g.cs
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\EditarSecretario.cshtml.g.cs
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\EditarProveedor.cshtml.g.cs
