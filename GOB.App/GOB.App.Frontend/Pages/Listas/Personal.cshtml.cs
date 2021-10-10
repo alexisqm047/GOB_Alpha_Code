@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using GOB.App.Persistencia;
 using GOB.App.Dominio;
-
+// Julian 
 namespace GOB.AppFrontend.Pages
 {
     public class PersonalModel : PageModel
