@@ -89,3 +89,4 @@ C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\L
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\scopedcss\bundle\GOB.App.Frontend.styles.css
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\DetallesPersonal.cshtml.g.cs
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\EditarPersonal.cshtml.g.cs
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\EliminarPersonal.cshtml.g.cs
