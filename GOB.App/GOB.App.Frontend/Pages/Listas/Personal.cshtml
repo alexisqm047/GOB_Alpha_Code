@@ -3,39 +3,65 @@
 @{
 }
 <style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
+        h1 {
+                text-align: center;
+        }
+
+        p {
+                text-align: center;
+        }
+
+        div {
+                text-align: center;
+        }
 </style>
 <style>
-table, tr, th, td {
-  border: 1px solid white;
-  border-collapse: collapse;
-}
-th, td {
-    background-color: #96D4D4;
-}
+        table,
+        tr,
+        th,
+        td {
+                border: 1px solid white;
+                border-collapse: collapse;
+        }
+
+        th,
+        td {
+                background-color: #96D4D4;
+        }
 </style>
 <h1>Lista Personal de Aseo</h1>
-<table style="width:100%"> 
+<table style="width:100%">
         <th>Nombre</th>
         <th>Apellido</th>
         <th>Edad</th>
         <th>Identificacion</th>
         <th>Turno</th>
         <th>Estado de salud</th>
-        @foreach (var empleadosAseo in Model.Personal)
-        {   
+        @foreach (var personal in Model.Personal)
+        {
 
                 <tr>
-                        <td>@empleadosAseo.nombre</td>
-                        <td>@empleadosAseo.apellido</td>
-                        <td>@empleadosAseo.edad</td>
-                        <td>@empleadosAseo.identificacion</td>
-                        <td>@empleadosAseo.turno</td>
-                        <td>@empleadosAseo.estadoSalud</td>
+                        <td>@personal.nombre</td>
+                        <td>@personal.apellido</td>
+                        <td>@personal.edad</td>
+                        <td>@personal.identificacion</td>
+                        <td>@personal.turno</td>
+                        <td>@personal.estadoSalud</td>
+                        <td>
+                                <a class="btn btn-primary table-btn" asp-page="/Listas/DetallesPersonal" asp-route-personalId="@personal.id">
+                                <i class="fas fa-info-circle" aria-hidden="true"></i></a>
+                        </td>
+                        <td>
+                                <a class="btn btn-secondary table-btn" asp-page="/Listas/EditarPersonal" asp-route-personalId="@personal.id">
+                                <i class="fas fa-address-book" aria-hidden="true"></i></a>
+
+                        </td>
+                        <td>
+                                <a class="btn btn-danger table-btn" asp-page="/Listas/EliminarPersonal" asp-route-personalId="@personal.id">
+                                <i class="fas fa-book-dead" aria-hidden="true"></i></a>
+                        </td>
                 </tr>
-                
+
         }
 </table>
-
+<a asp-page="/Listas/EditarPersonal" class="btn btn-primary table-btn">Adicionar Personal</a>

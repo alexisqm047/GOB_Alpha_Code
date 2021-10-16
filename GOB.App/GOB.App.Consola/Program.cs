@@ -17,7 +17,7 @@ namespace GOB.App.Consola
             AdicionarProveedor();
             EncontrarSecretarioDespacho(1);
             //AdicionarGobernador();
-            //AdicionarPersonalAseo();
+            //AdicionarPersonalAseo(1);
             //AdicionarSecretarioDespacho();
             //ActualizarGobernador(1);
             //ActualizarProveedor(1);
