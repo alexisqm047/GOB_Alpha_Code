@@ -90,3 +90,5 @@ C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\scopedcss\bun
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\DetallesPersonal.cshtml.g.cs
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\EditarPersonal.cshtml.g.cs
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\EliminarPersonal.cshtml.g.cs
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\DetallesProveedor.cshtml.g.cs
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\EliminarProveedor.cshtml.g.cs

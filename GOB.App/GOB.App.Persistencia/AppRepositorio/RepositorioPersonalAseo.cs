@@ -6,7 +6,7 @@ namespace GOB.App.Persistencia
 {
     public class RepositorioPersonalAseo : IRepositorioPersonalAseo
     {
-        private readonly AppContext _appContext;
+        private static AppContext _appContext;
 
         public RepositorioPersonalAseo(AppContext appContext)
         {

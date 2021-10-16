@@ -6,7 +6,7 @@ namespace GOB.App.Persistencia
 {
     public class RepositorioSecretarioDespacho : IRepositorioSecretarioDespacho
     {
-        private readonly AppContext _appContext;
+        private static AppContext _appContext;
 
         public RepositorioSecretarioDespacho(AppContext appContext)
         {

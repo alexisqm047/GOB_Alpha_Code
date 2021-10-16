@@ -6,7 +6,7 @@ namespace GOB.App.Persistencia
 {
     public class RepositorioProveedor : IRepositorioProveedor
     {
-        private readonly AppContext _appContext;
+        private static AppContext _appContext;
 
         public RepositorioProveedor(AppContext appContext)
         {
