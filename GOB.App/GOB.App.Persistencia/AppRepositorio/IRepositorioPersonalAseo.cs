@@ -5,8 +5,7 @@ namespace GOB.App.Persistencia
 {
     public interface IRepositorioPersonalAseo
     {
-        //CRUD...
-        //Julian
+        //CRUD
         //GetAllPersonalAseo, metodo que nos recupera la info relacionada al personal de aseo
         IEnumerable<PersonalAseo> GetAllPersonalAseo(); //Firma del metodo, Estructura de datos que almacena elementos de la clase personal de aseo
 
