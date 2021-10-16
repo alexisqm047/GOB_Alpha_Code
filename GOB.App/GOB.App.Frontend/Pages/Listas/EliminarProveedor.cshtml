@@ -1,0 +1,53 @@
+﻿@page
+@model GOB.AppFrontend.Pages.EliminarProveedorModel
+@{
+}
+
+<style>
+    h1 {
+        text-align: center;
+    }
+
+    p {
+        text-align: center;
+    }
+
+    div {
+        text-align: center;
+    }
+</style>
+<style>
+    table,
+    tr,
+    th,
+    td {
+        border: 1px solid white;
+        border-collapse: collapse;
+    }
+
+    th,
+    td {
+        background-color: #96D4D4;
+    }
+</style>
+
+<table style="width:100%">
+    <th>Nombre</th>
+    <th>Apellido</th>
+    <th>Edad</th>
+    <th>Identificacion</th>
+    <th>Servicio</th>
+    <th>Lugar Servicio</th>
+    <tr>
+        <td>@Model.proveedor.nombre</td>
+        <td>@Model.proveedor.apellido</td>
+        <td>@Model.proveedor.edad</td>
+        <td>@Model.proveedor.identificacion</td>
+        <td>@Model.proveedor.servicio</td>
+        <td>@Model.proveedor.lugarServicio</td>
+    </tr>  
+</table>
+<form method="post">
+    <input type="hidden" asp-for="proveedor.id">
+    <button type="submit" class="btn btn-danger">Confirmar Eliminar</button>
+</form>
