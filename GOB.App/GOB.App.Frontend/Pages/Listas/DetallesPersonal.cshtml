@@ -1,0 +1,36 @@
+@page
+@model GOB.AppFrontend.Pages.DetallesPersonalModel
+@{
+}
+
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+<style>
+table, tr, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+</style>
+<h1>Detalles Personal de Aseo</h1>
+<table style="width:100%"> 
+    <th>Nombre</th>
+    <th>Apellido</th>
+    <th>Edad</th>
+    <th>Identificacion</th>
+    <th>Turno</th>
+    <th>Estado de salud</th>
+    <tr>
+        <td>@Model.personal.nombre</td>
+        <td>@Model.personal.apellido</td>
+        <td>@Model.personal.edad</td>
+        <td>@Model.personal.identificacion</td>
+        <td>@Model.personal.turno</td>
+        <td>@Model.personal.estadoSalud</td>
+    </tr>   
+</table>

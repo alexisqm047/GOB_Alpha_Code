@@ -81,9 +81,10 @@ C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\GOB.App.Front
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\GOB.App.Frontend.genruntimeconfig.cache
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\Gobernadores.cshtml.g.cs
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\Personal.cshtml.g.cs
-C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\DetallesSecretario.cshtml.g.cs
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\Proveedores.cshtml.g.cs
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\EliminarSecretario.cshtml.g.cs
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\EditarSecretario.cshtml.g.cs
 C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\EditarProveedor.cshtml.g.cs
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\scopedcss\bundle\GOB.App.Frontend.styles.css
+C:\GOB_Alpha_Code\GOB.App\GOB.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Listas\DetallesPersonal.cshtml.g.cs

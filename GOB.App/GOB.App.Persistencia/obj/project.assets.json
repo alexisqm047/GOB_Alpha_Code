@@ -7263,7 +7263,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alexis\\.nuget\\packages\\": {}
+    "C:\\Users\\Asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -7271,11 +7271,11 @@
       "projectUniqueName": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Persistencia\\GOB.App.Persistencia.csproj",
       "projectName": "GOB.App.Persistencia",
       "projectPath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Persistencia\\GOB.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
       "outputPath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alexis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -7285,6 +7285,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "projectReferences": {
             "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj": {
               "projectPath": "C:\\GOB_Alpha_Code\\GOB.App\\GOB.App.Dominio\\GOB.App.Dominio.csproj"
@@ -7300,6 +7301,7 @@
     },
     "frameworks": {
       "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -7337,7 +7339,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
