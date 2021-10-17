@@ -11,7 +11,7 @@ namespace GOB.AppFrontend.Pages
 {
     public class DetallesGobernadorModel : PageModel
     {
-        private static IRepositorioGobernadorAsesores _repoGobernador = new RepositorioGobernadorAsesores(new Persistencia.AppContext());
+        private static IRepositorioGobernadorAsesores _repoGobernador = new RepositorioGobernadorAsesores(new GOB.App.Persistencia.AppContext());
         public GobernadorAsesores gobernador;
 
         public IActionResult OnGet(int gobernadorId)
