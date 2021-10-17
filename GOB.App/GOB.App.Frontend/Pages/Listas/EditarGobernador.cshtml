@@ -1,0 +1,29 @@
+@page
+@model GOB.AppFrontend.Pages.EditarGobernadorModel
+@{
+}
+<form method="post">
+    <input type="hidden" asp-for="gobernador.id">
+    <div class="form_group">
+        <label asp-for="gobernador.nombre"></label>
+        <input asp-for="gobernador.nombre" class="form-control">
+    </div>
+    <div class="form_group">
+        <label asp-for="gobernador.apellido"></label>
+        <input asp-for="gobernador.apellido" class="form-control">
+    </div>
+    <div class="form_group">
+        <label asp-for="gobernador.edad"></label>
+        <input asp-for="gobernador.edad" class="form-control">
+    </div>
+    <div class="form_group">
+        <label asp-for="gobernador.identificacion"></label>
+        <input asp-for="gobernador.identificacion" class="form-control">
+    </div>
+    <div class="form_group">
+        <label asp-for="gobernador.estadoSalud"></label>
+        <input asp-for="gobernador.estadoSalud" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+    <input type="button" class="btn btn-primary" onclick="history.back()" name="Cancelar" value="Cancelar">
+</form>

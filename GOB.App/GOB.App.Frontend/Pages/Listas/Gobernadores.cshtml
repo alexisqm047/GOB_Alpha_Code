@@ -32,7 +32,21 @@ th, td {
             <td>@gobernadores.edad</td>
             <td>@gobernadores.identificacion</td>
             <td>@gobernadores.estadoSalud</td>            
+            <td>
+              <a class="btn btn-primary table-btn" asp-page="/Listas/DetallesGobernador" asp-route-gobernadorId="@gobernadores.id">
+              <i class="fas fa-info-circle" aria-hidden="true"></i></a>
+            </td>
+            <td>
+              <a class="btn btn-secondary table-btn" asp-page="/Listas/EditarGobernador" asp-route-gobernadorId="@gobernadores.id">
+              <i class="fas fa-address-book" aria-hidden="true"></i></a>
+
+            </td>
+            <td>
+              <a class="btn btn-danger table-btn" asp-page="/Listas/EliminarGobernador" asp-route-gobernadorId="@gobernadores.id">
+              <i class="fas fa-book-dead" aria-hidden="true"></i></a>
+            </td>
         </tr>
         
     }
 </table>
+<a asp-page="/Listas/EditarGobernador" class="btn btn-primary table-btn">Adicionar Gobernador</a>

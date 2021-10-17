@@ -1,5 +1,5 @@
-﻿@page
-@model GOB.AppFrontend.Pages.EliminarSecretarioModel
+@page
+@model GOB.AppFrontend.Pages.EliminarGobernadorModel
 @{
 }
 
@@ -36,18 +36,16 @@
     <th>Apellido</th>
     <th>Edad</th>
     <th>Identificacion</th>
-    <th>Despacho</th>
     <th>Estado de salud</th>
     <tr>
-        <td>@Model.secretario.nombre</td>
-        <td>@Model.secretario.apellido</td>
-        <td>@Model.secretario.edad</td>
-        <td>@Model.secretario.identificacion</td>
-        <td>@Model.secretario.despacho</td>
-        <td>@Model.secretario.estadoSalud</td>
+        <td>@Model.gobernador.nombre</td>
+        <td>@Model.gobernador.apellido</td>
+        <td>@Model.gobernador.edad</td>
+        <td>@Model.gobernador.identificacion</td>
+        <td>@Model.gobernador.estadoSalud</td>
     </tr>
 </table>
 <form method="post">
-    <input type="hidden" asp-for="secretario.id">
+    <input type="hidden" asp-for="gobernador.id">
     <button type="submit" class="btn btn-danger">Confirmar Eliminar</button>
 </form>
