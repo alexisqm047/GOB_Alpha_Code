@@ -11,7 +11,7 @@ namespace GOB.AppFrontend.Pages
 {
     public class EliminarGobernadorModel : PageModel
     {
-        private static IRepositorioGobernadorAsesores _repoGobernador = new RepositorioGobernadorAsesores(new Persistencia.AppContext());
+        private static IRepositorioGobernadorAsesores _repoGobernador = new RepositorioGobernadorAsesores(new GOB.App.Persistencia.AppContext());
         [BindProperty]
         public GobernadorAsesores gobernador {get;set;}
         public IActionResult OnGet(int gobernadorId)
