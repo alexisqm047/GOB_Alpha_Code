@@ -22,7 +22,7 @@ namespace GOB.AppFrontend.Pages
                 return RedirectToPage("./Gobernadores");
             }
             else
-                return Pages();
+                return Page();
         }
     }
 }
