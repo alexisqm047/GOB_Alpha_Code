@@ -9,3 +9,16 @@
     <p>CONTROL ACCESO GOBERNACION</p>
     <img src="https://rockcontent.com/es/wp-content/uploads/sites/3/2020/08/qu%C3%A9-es-PHP-1024x576.png">
 </div>
+@if(User.Identity.IsAuthenticated)
+{
+<table class="table table-sm">
+    @foreach (var claim in User.Claims)
+    {
+       <tr>
+        <td>@claim.Type
+        </td>
+        <td>@claim.Value</td>
+       </tr> 
+    }
+</table>
+}
